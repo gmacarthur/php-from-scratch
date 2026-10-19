@@ -1,0 +1,30 @@
+<?php
+
+declare(strict_types=1);
+
+// Week 01: Movie Ticket Booking
+// Run from the repository root: php index.php
+//
+// This file is intentionally a starter, not a finished program.
+// Read week-01-movie-tickets/README.md before continuing.
+
+// STEP 0 (provided): Start the program and read one line of input.
+echo "================================\n";
+echo "       THE PHP CINEMA\n";
+echo "================================\n\n";
+echo "Welcome! What is your name? ";
+
+$name = trim(fgets(STDIN));
+
+echo "\nHi, {$name}! Your movie booking starts here.\n\n";
+
+// TODO 1: Create an array of at least three movies, each with a title and rating.
+// TODO 2: Display the movies as a numbered menu, using a loop.
+// TODO 3: Ask the user to choose a movie; reject invalid choices.
+// TODO 4: Ask how many tickets they want (between 1 and 6).
+// TODO 5: Loop once per ticket, asking for that person's age.
+// TODO 6: Work out the ticket type and price for each age.
+// TODO 7: Check the selected film's classification against each age.
+// TODO 8: Print a receipt with the ticket breakdown and total.
+
+// Tip: Write and test one TODO at a time. Commit your progress!
