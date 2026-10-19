@@ -11,7 +11,7 @@ This repository is a collection of 12 weekly, small, practical challenges. Each 
 ## Get ready
 
 1. Install PHP 8.2 or later. Check: `php -v`.
-2. Clone this repository and open it in your editor.
+2. Fork this repository and open it in your editor.
 3. From the **repository root**, run:
 
    ```bash
